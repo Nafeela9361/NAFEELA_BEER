@@ -15,7 +15,7 @@ A collection of my **coursework, assignments, hands-on exercises, and projects**
 
 ## 🛠️ Technologies & Tools
 
-**Python | SQL | MySQL | Pandas | NumPy | Scikit-learn | NLTK | Matplotlib | Jupyter Notebook | Git | GitHub**
+**Python | SQL | MySQL | Pandas | NumPy | Scikit-learn | NLTK | Matplotlib | Jupyter Notebook | GitHub**
 
 ## 📂 Repository Contents
 
